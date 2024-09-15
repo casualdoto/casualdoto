@@ -1,5 +1,5 @@
 # Hi! 👋
-I'm Daniil and I'm Data Analyst 📖 (my hobby is Java Mobile Development, so now I'm working at temanager.com).
+I'm Daniil and I'm Data Analyst 📖.
 
 My contacts: mail - khrestyanovskii@gmail.com; telegram - t.me/dankhrestyan
 
