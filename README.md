@@ -8,4 +8,5 @@ My education: Bachelor's degree (2022-2026) in the specialty Mathematical suppor
 [![My Skills](https://skillicons.dev/icons?i=postgres,py,cpp,java&perline=6)](https://skillicons.dev)
 
 Also I'm working in JupyterLab using libraries like NumPy, Pandas, Matplotlib.
+I'm interested in working as a data analyst in eSports (Dota 2). I have my own telegram channel where I share my thoughts about the game and the data about it - t.me/casualdotoo.
 
