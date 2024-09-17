@@ -13,3 +13,4 @@ I'm interested in working as a data analyst in eSports (Dota 2). I have my own t
 
 P.S. Currently I'm working on an app TE_Manager (Backend Java Developer), but, this is a commercial project, so I can't share my repository, but you can check the app in our site - temanager.com.
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=casualdoto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
