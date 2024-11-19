@@ -9,10 +9,8 @@ My education: Bachelor's degree (2022-2026) in the specialty Mathematical suppor
 
 Also I'm working in JupyterLab using libraries like NumPy, Pandas, Matplotlib.
 
-I'm interested in working as a data analyst in eSports (Dota 2). I have my own telegram channel where I share my thoughts about the game and the data about it - t.me/casualdotoo.
+Dota 2 Team Avulus data analyst since october 2024. I have my own telegram channel where I share my thoughts about the game and the data about it - t.me/casualdotoo.
 
 P.S. Currently I'm working on an app TE_Manager (Backend Java Developer), but, this is a commercial project, so I can't share my repository, but you can check the app in our site - temanager.com.
-
-Data Analysis with Python certification from freeCodeCamp: https://freecodecamp.org/certification/casualdoto/data-analysis-with-python-v7
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=casualdoto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
