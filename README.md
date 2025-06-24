@@ -1,5 +1,4 @@
-# Hi! 👋
-I'm Daniil, a backend developer and data analyst.
+## **My portfolio:** https://casualdoto.github.io/
 
 ### 📫 Contacts:
 - **Email**: [khrestyanovskii@gmail.com](mailto:khrestyanovskii@gmail.com)  
@@ -16,18 +15,6 @@ St. Petersburg State Polytechnical University
 
 ### 🚀 Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=go,docker,kafka,redis&perline=6)](https://skillicons.dev)
-
-I also work with **JupyterLab**, utilizing libraries like **NumPy**, **Pandas**, and **Matplotlib**.
-
----
-
-### 🏅 Experience:
-- **Data Analyst** for **Dota 2 Team Avulus** since October 2024.  
-- I run my own Telegram channel where I share insights and data analytics about Dota 2: [t.me/casualdotoo](https://t.me/casualdotoo).
-
-### 💼 Projects:
-- Currently working as a **Backend Java Developer** on the **TE_Manager** app.  
-  Due to the commercial nature of the project, I can't share the repository, but you can check out the app on our website: [temanager.com](https://temanager.com).
 
 ---
 
