@@ -11,10 +11,10 @@ St. Petersburg State Polytechnical University
 ---
 
 ### 🛠️ Current stack:
-[![My Skills](https://skillicons.dev/icons?i=postgres,py,cpp,java&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,go,docker,py,java&perline=6)](https://skillicons.dev)
 
 ### 🚀 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=go,docker,kafka,redis&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,redis&perline=6)](https://skillicons.dev)
 
 ---
 
