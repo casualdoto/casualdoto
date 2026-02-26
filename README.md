@@ -1,5 +1,3 @@
-## **My portfolio:** https://casualdoto.github.io/
-
 ### 📫 Contacts:
 - **Email**: [khrestyanovskii@gmail.com](mailto:khrestyanovskii@gmail.com)  
 - **Telegram**: [t.me/dankhrestyan](https://t.me/dankhrestyan)
